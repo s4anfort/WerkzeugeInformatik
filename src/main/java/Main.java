@@ -9,6 +9,9 @@ public class Main {
 
         factory.buildCar(car1);
         factory.buildCar(car2);
+	
+	// merge-conflict-Branch Änderung
+	System.out.println("Änderung im merge-conflict-Branch");
     }
 }
 
